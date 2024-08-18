@@ -25,7 +25,7 @@
 
   <h2>:star2: Profile Stats :star2:</h2>
 
-  <img width=400em src="https://github-readme-stats-salesp07.vercel.app/api?username=LinaSotto&count_private=true&title_color=ffffff&icon_color=006ab6&text_color=bac1c6&bg_color=161b22&show_icons=true&rank_icon=github&border_radius=7" alt="readme stats" />
+  <img width=397em src="https://github-readme-stats-salesp07.vercel.app/api?username=LinaSotto&count_private=true&title_color=ffffff&icon_color=006ab6&text_color=bac1c6&bg_color=161b22&show_icons=true&rank_icon=github&border_radius=7" alt="readme stats" />
   <img width=355em src="https://github-readme-stats.vercel.app/api/top-langs?username=LinaSotto&locale=en&hide_title=false&layout=compact&langs_count=10&title_color=ffffff&cache_seconds=20000&icon_color=0096ff&text_color=bac1c6&bg_color=161b22&border_radius=5" alt="languages graph"/>
 
 <!-- Contribucciones !-->
