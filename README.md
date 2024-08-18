@@ -3,7 +3,7 @@
   <main>
     <!-- Titulo !-->
     <div align="center">
-      <h1 align="center"> Hi there 👋 ✨My name is Lina ✨ </h1>
+      <h1 align="center"> ✨Hi there, My name is Lina ✨ </h1>
     </div>
   
   <!-- Descripcion !-->
@@ -28,6 +28,14 @@
   <img width=400em src="https://github-readme-stats-salesp07.vercel.app/api?username=LinaSotto&count_private=true&title_color=ffffff&icon_color=006ab6&text_color=bac1c6&bg_color=161b22&show_icons=true&rank_icon=github&border_radius=7" alt="readme stats" />
   <img width=355em src="https://github-readme-stats.vercel.app/api/top-langs?username=LinaSotto&locale=en&hide_title=false&layout=compact&langs_count=10&title_color=ffffff&cache_seconds=20000&icon_color=0096ff&text_color=bac1c6&bg_color=161b22&border_radius=5" alt="languages graph"/>
 
+<!-- Contribucciones !-->
+<div align="center">
+
+  <h2>Contributions</h2>
+
+  <img src="https://streak-stats.demolab.com?user=YokoMari&theme=github-dark-blue&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=650&card_height=150&background=161B22&ring=00C647&fire=EB5E0C" alt="GitHub Streak"/>
+
+</div>
 
 
   </main>
